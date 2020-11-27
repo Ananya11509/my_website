@@ -1,0 +1,24 @@
+.line {
+    height:6px;
+    width:100px;
+    background-color: firebrick;
+    margin:8px auto;
+}
+#section1 {
+    text-align: center;
+    background-color: darksalmon;
+}
+#section2 {
+    text-align: center;
+    background-color: cadetblue;
+}
+#section3 {
+    text-align: center;
+    background-color:azure;
+}
+img {
+    transition: transform .2s; 
+}
+img:hover {
+    transform: scale(0.9);
+}
